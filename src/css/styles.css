@@ -192,3 +192,8 @@ body {
 .dragging {
     opacity: 0.5;
 }
+
+.dragging-column {
+    background-color: #3a3a3a;
+    opacity: 0.5;
+}
