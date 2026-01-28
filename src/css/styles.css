@@ -188,3 +188,7 @@ body {
     background-color: rgb(47, 47, 47);
     border-radius: 20px;
 }
+
+.dragging {
+    opacity: 0.5;
+}
